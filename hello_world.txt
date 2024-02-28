@@ -1,1 +1,3 @@
 Ok let's add some text to this document so that we can test if it works.
+This is a VS Code test. 
+Let's add another line just in case.
